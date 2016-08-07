@@ -12,9 +12,11 @@
   },
   "require": {
     "dektrium/yii2-user": "0.9.*@dev",
-    "wfstudioru/yii2-yandex-translate-api": "*@dev"
+    "wfstudioru/yii2-yandex-translate-api": "*@dev",
+    "fillup/fake-bower-assets": "2.0.9",
+    "yiisoft/yii2": "2.0.9"
   },
   "autoload": {
-    "psr-4": { "infun3\\translator\\": "" }
+    "psr-4": { "a1bo\\yii2-rioTrnsl\\": "" }
   }
 }
